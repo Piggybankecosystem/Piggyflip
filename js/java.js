@@ -1,0 +1,1 @@
+No Content: https://dappsgod.com/js/java.js
