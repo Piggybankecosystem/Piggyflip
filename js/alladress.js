@@ -232,7 +232,7 @@ const BINANCE = {
 
     chainid: 56,
 
-    contrat: "0x5dC81eE87246b292Ec8De0220108c2912A0571B2",
+    contrat: "0x871d4810859FBe86715De69061918a5CF7655027",
 
     tokenname: "SHF"
 
