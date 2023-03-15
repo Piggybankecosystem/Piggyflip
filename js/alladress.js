@@ -234,7 +234,7 @@ const BINANCE = {
 
     contrat: "0xFD820C9be9C1fA1dF54f9dCd2Cde299e4E08A52C",
 
-    tokenname: "SHF"
+    tokenname: "BNB"
 
 }
 
